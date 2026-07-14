@@ -1,10 +1,10 @@
 import React, { useEffect, useRef, useState } from 'react'
 
 const CounterUp = ({
-    end = 100,
-    duration = 3000,
-    suffix = ""
-}) => {
+        end = 100,
+        duration = 3000,
+        suffix = ""
+    }) => {
 
     const [count, setCount] = useState(0)
     const [startCount, setStartCount] = useState(false)

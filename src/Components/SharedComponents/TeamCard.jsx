@@ -1,6 +1,6 @@
 import Container from './Container'
 import SectionTitleTwo from '../SectionTitle/SectionTitleTwo'
-import CounterUp from '../../Hooks/Counterup'
+import CounterUp from '../../Hooks/CounterUp'
 import team_shape from '../../assets/images/team/line_shape.png'
 import team_img_1 from '../../assets/images/team/h2_team_img_1.jpg'
 import team_img_2 from '../../assets/images/team/h2_team_img_2.jpg'
