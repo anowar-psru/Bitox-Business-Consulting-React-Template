@@ -1,4 +1,3 @@
-import React from 'react'
 import Container from '../../Components/SharedComponents/Container'
 import SectionTitleTwo from '../../Components/SectionTitle/SectionTitleTwo'
 import shape_img from "../../assets/images/faq/shape_img.png"

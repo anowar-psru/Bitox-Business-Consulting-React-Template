@@ -69,7 +69,7 @@ const ContactInfo = () => {
                                 {/* Contact Working Hours Here */}
                                 <div className='bg-white rounded-md p-9'>
                                     <h3 className='text-primary text-2xl leading-8.5 font-bold mb-5'>Working Hours</h3>
-                                    <p className='text-lg'>Monday to Friday 09:00 to 18:30   Saturday 15:30</p>
+                                    <p className='text-lg'>Monday to Friday 09:00 to 18:30  Saturday 15:30</p>
                                 </div>
                             </div>
                         </div>

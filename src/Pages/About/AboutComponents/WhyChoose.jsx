@@ -1,4 +1,3 @@
-import React from 'react'
 import Container from '../../../Components/SharedComponents/Container'
 import SectionTitleTwo from '../../../Components/SectionTitle/SectionTitleTwo'
 import why_line_shape from '../../../assets/images/pages/aboutpage/why_line_shape.svg'

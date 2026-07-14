@@ -1,4 +1,3 @@
-import React from 'react'
 import Container from '../../../Components/SharedComponents/Container'
 import line_shape from '../../../assets/images/pages/servicepage/line_shape.svg'
 import item_icon_1 from '../../../assets/images/pages/servicepage/step_shape_1.svg'

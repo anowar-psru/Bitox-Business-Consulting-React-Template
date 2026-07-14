@@ -1,4 +1,4 @@
-import CounterUp from "../../Hooks/Counterup"
+import CounterUp from "../../Hooks/CounterUp"
 import Container from "./Container"
 
 const FactData = [

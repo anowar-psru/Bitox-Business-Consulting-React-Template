@@ -1,4 +1,3 @@
-import React from 'react'
 import Banner from './HomeComponents/Banner'
 import Hero from './HomeComponents/Hero'
 import About from './HomeComponents/About'

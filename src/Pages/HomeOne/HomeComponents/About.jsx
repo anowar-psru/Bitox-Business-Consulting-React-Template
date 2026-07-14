@@ -4,7 +4,7 @@ import about_img_2 from '../../../assets/images/about/h1_about_img_2.jpg'
 import { useEffect, useState } from 'react';
 import Container from '../../../Components/SharedComponents/Container';
 import PrimaryBtn from '../../../Components/Button/PrimaryBtn';
-import CounterUp from '../../../Hooks/Counterup';
+import CounterUp from '../../../Hooks/CounterUp';
 
 const About = () => {
     const progressData = [

@@ -1,4 +1,3 @@
-import React from 'react'
 import Container from '../../../Components/SharedComponents/Container'
 import author_img from '../../../assets/images/pages/blog_details/author_img.png'
 const BDHero = () => {

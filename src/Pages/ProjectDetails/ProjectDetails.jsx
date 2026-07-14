@@ -1,4 +1,3 @@
-import React from 'react'
 import Breadcumb from '../../Components/Breadcumb/Breadcumb'
 import ProjectDetailsBody from './ProjectDetailsComponents/ProjectDetailsBody'
 const ProjectDetails = () => {

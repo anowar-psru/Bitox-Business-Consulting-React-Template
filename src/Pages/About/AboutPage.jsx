@@ -1,4 +1,3 @@
-import React from 'react'
 import Breadcumb from '../../Components/Breadcumb/Breadcumb'
 import Facts from '../../Components/SharedComponents/Facts'
 import AboutUs from './AboutComponents/AboutUs'

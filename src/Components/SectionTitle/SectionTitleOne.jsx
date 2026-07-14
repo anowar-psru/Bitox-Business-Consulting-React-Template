@@ -1,5 +1,3 @@
-import React from 'react'
-
 const SectionTitleOne = ({text, textColor}) => {
     return (
         <>

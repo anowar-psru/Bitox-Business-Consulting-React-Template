@@ -1,4 +1,3 @@
-import React from 'react'
 import { Link } from 'react-router'
 import Container from '../../../Components/SharedComponents/Container'
 import banner_shape from '../../../assets/images/banner/banner_shape.svg'

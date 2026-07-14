@@ -1,6 +1,6 @@
 import React from 'react'
 import Container from '../../../Components/SharedComponents/Container'
-import CounterUp from '../../../Hooks/Counterup'
+import CounterUp from '../../../Hooks/CounterUp'
 const MissionData = [
     {
         number: 36,

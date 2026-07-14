@@ -1,4 +1,3 @@
-import React from 'react'
 import Faq from '../../../Components/SharedComponents/Faq'
 import Container from '../../../Components/SharedComponents/Container'
 import SectionTitleOne from '../../../Components/SectionTitle/SectionTitleOne'
