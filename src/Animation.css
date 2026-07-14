@@ -1,0 +1,30 @@
+/* ==========================================================================================================
+Swiper JS Autoplay Slider CSS Here
+========================================================================================================== */
+.established-slider .swiper-wrapper {
+  transition-timing-function: linear !important;
+}
+/* ========================================================================================================
+About Section Style Here
+======================================================================================================== */
+@keyframes progress {
+    from {width: 0%;}
+    to {width: var(--target-width);}
+}
+.animate_progress {
+    animation: progress 1s ease-out forwards;
+    animation-delay: var(--delay);
+}
+.animate_fade_in {
+    animation: fadeIn 0.5s ease-out forwards;
+    opacity: 0;
+}
+@keyframes fadeIn {
+    to {opacity: 1;}
+}
+/* ========================================================================================================
+brand-slider Section Style Here
+======================================================================================================== */
+.brand-slider .swiper-wrapper {
+  transition-timing-function: linear;
+}

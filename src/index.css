@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@theme {
+    --font-primary: "DM Sans", sans-serif;
+    --color-primary: #02090F;
+    --color-secondary: #FF5101;
+    --color-paragraph: #555555; 
+    --color-background: #FAF7EF;
+}
+/* Custom Breakpoint Here */
+@theme {
+    --breakpoint-*: initial;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --breakpoint-2xl: 1400px;
+    --breakpoint-3xl: 1600px;
+    --breakpoint-4xl: 1800px;
+}
+body {
+    @apply text-[17px] text-paragraph leading-7 font-primary bg-background
+}
+
+.footer-info {
+    @apply text-white text-xl leading-7.5 font-medium border border-[rgba(255,255,255,0.1)] rounded-md flex items-center justify-center text-center
+}
